@@ -17,6 +17,12 @@ export default function App() {
         imagem="https://image.slidesharecdn.com/higienepessoal-141120172417-conversion-gate02/85/higiene-pessoal-1-320.jpg?cb=1666147191"
         descricao="Tomar banho, Escovar os dentes etc"
       ></Card>
+      <Card
+        porcentagem="5%"
+        titulo="Higiene Pessoal"
+        imagem="https://image.slidesharecdn.com/higienepessoal-141120172417-conversion-gate02/85/higiene-pessoal-1-320.jpg?cb=1666147191"
+        descricao="Tomar banho, Escovar os dentes etc"
+      ></Card>
 
       <Card
         porcentagem="10%"
