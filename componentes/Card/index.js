@@ -7,10 +7,12 @@ export default function Card({ porcentagem, titulo, imagem, descricao }) {
     <View style={estilo.cardTarefa}>
       <Image style={estilo.imagemCard} source={{ uri: imagem }} />
 
-      <View style={{ marginLeft: 15, width: 150 }}>
+      <View style={{ marginLeft: 15,  width: 150 }}>
+    
         <Text style={estilo.tituloCard}>{titulo}</Text>
 
         <Text style={estilo.textoCard}>{descricao}</Text>
+        
       </View>
 
       <Text style={{ fontSize: 25 }}>{porcentagem}</Text>

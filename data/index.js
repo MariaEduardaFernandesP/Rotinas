@@ -17,7 +17,7 @@ const data = [
         id:'03', 
         porcentagem: '20%',
         titulo: 'Estudar para o Enem',
-        imagem: 'https://www.estudaqui.com/wp-content/uploads/2020/05/como-estudar-enem-sozinho.png',
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHlLauNb5pvNE_2xPcm3IFK2mXvRtXQaErgVvVlbZrPTZnigS8ebDhzg4TYoqDyPxvek&usqp=CAU',
         descricao: 'Estudar as matérias que caem no Enem',
     },
     {
